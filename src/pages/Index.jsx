@@ -1,9 +1,9 @@
 function Index() {
   return (
     <div>
-      <h1 className="text-3xl text-center">Your Blank Canvas</h1>
+      <h1 className="text-3xl text-center">Finance Admin Tool</h1>
       <p className="text-center">
-        Chat with the agent to start making edits.
+        Welcome to the Finance Admin Tool. Use the sidebar to navigate between different sections.
       </p>
     </div>
   );
